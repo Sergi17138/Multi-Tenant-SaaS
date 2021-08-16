@@ -9,7 +9,7 @@ var numero = 0
 
   return (
     <div>
-      <h1>HOLA MUNDO REACT</h1>
+      <h1>HOLA MUNDO REACT 2</h1>
       <Parrafo />
       <h2>Esto es el contador: { contador }</h2>
       <button onClick={() => setContador(contador + 1)}> Aumentar </button>
